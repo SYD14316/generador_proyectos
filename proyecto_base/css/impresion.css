@@ -1,0 +1,51 @@
+html {
+  min-height: 100%;
+  position: relative;
+  font-family: Verdana; 
+}
+
+body {
+  margin: 10px;
+  margin-bottom: 40px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+table {
+  font-size: small;
+}
+
+tr th {
+  background: white;
+  border: black 1px solid;
+}
+
+div.col{
+  border: black 1px solid;
+}
+
+tr,td,th { border: black 1px solid }
+
+div.band{ border: black 1px solid }
+
+@media print {
+  @page { size: auto; }
+  html {
+    min-height: 100%;
+    position: relative;
+    font-family: Verdana; 
+  }
+  body {
+    margin: 10px;
+    margin-bottom: 40px;
+  }
+  footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+  }
+}

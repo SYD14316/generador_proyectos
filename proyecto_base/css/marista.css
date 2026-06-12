@@ -1,0 +1,58 @@
+nav.navbar {background-color: rgb(0, 55, 100);}
+.card-header {
+    background-color: #003764;
+    color: white;
+}
+th {
+    background-color: #ffd966;
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+td {
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+.input-group-text {
+    background-color: #ffd966;
+    color: black;
+}
+.span-mrta {
+    background-color: #ffd966;
+    color: black;
+    font-size:small;
+}
+
+input{
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+
+nav.navbar {background-color: rgb(0, 55, 100);}
+.card-header {
+    background-color: #003764;
+    color: white;
+}
+th {
+    background-color: #ffd966;
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+td {
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
+.input-group-text {
+    background-color: #ffd966;
+    color: black;
+}
+
+input{
+    color: black;
+    border-color: black;
+    border-width: 1px;
+}
